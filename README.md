@@ -15,7 +15,7 @@ This project implements a Log Analysis and Intrusion Detection System (IDS) in J
 #### Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/vm32/LogAnalysisIDS
    cd repository
 
 # Replace with your build tool commands (e.g., Maven, Gradle)
